@@ -1,5 +1,5 @@
 {
-      "name": "Evil Bot",
+      "name": "Bot Z",
       "description": "An Anime Theme Telegram group management bot.",
       "keywords": [
          "telegram",
@@ -10,7 +10,7 @@
       ],
     
    "logo":    "https://telegra.ph/file/2345311d29a66213a9d98.jpg",  
-   "repository": "https://github.com/shrvan42/EvilBot",
+   "repository": "https://github.com/selfie-bd/EvilBot",
    "addons": [
           {
          "options": {
